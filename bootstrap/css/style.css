@@ -9,3 +9,8 @@ body{
 .cgreen{
     border:2px solid green;
 }
+@media(min-width:700px){
+    .txtmoyen{
+        font-size: 12px;
+    }
+}
